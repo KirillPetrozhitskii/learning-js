@@ -1,3 +1,16 @@
+
+/**
+ * Story Generator
+ * freeCodeCamp | JavaScript Lab
+ *
+ * Generates two fictional stories by combining
+ * predefined text with variable values.
+ * Inspired by the Fallout universe.
+ *
+ * Concepts: Variables, String Concatenation,
+ *           Reassignment, console.log()
+ */
+
 let adjective = "radioactive";
 let noun = "gecko";
 let verb = "hunting";
