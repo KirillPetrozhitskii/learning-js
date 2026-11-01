@@ -1,3 +1,17 @@
+/**
+ * Coding Fun Facts Bot
+ * freeCodeCamp | JavaScript Lab
+ *
+ * Creates a simple chatbot that introduces itself
+ * and shares interesting programming facts.
+ *
+ * Demonstrates how to build strings using variables
+ * and update their values throughout the program.
+ *
+ * Concepts: Variables, String Concatenation,
+ *           Reassignment, console.log()
+ */
+
 console.log("Hello! I'm yout coding fun fact guide!");
 
 let botName = "Jarvis";
