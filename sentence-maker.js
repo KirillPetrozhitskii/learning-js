@@ -1,4 +1,3 @@
-
 /**
  * Story Generator
  * freeCodeCamp | JavaScript Lab
