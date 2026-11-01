@@ -1,3 +1,18 @@
+/**
+ * Magic 8-Ball
+ * JavaScript Practice | Codecademy
+ *
+ * Simulates a Magic 8-Ball that answers user
+ * questions with one of eight random responses.
+ *
+ * Includes two implementations:
+ * if/else if statements and switch/case.
+ *
+ * Concepts: Variables, Conditionals, Ternary Operator,
+ *           Switch Statements, Template Literals,
+ *           Math.random(), Math.floor()
+ */
+
 let userName = 'Kirill';
 
 userName
